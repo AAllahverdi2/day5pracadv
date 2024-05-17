@@ -2,6 +2,8 @@ name: Push Notification
 
 on: [push]
 
+salam
+
 jobs:
   notify:
     runs-on: ubuntu-latest
